@@ -10,6 +10,10 @@
 ## Run:
 
 ```bash
+$ git clone https://github.com/ConfusedCharacter/Python-Encrypter
+```
+
+```bash
 $ python3 main.py
 ```
 
