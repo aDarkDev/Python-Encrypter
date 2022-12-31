@@ -10,7 +10,7 @@
 ## Run:
 
 ```bash
-$ git clone https://github.com/ConfusedCharacter/Python-Encrypter
+$ git clone https://github.com/ConfusedCharacter/Python-Encrypter; cd Python-Encrypter
 ```
 
 ```bash
